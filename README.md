@@ -1,0 +1,1 @@
+Simple Inventory App using Express and React.
